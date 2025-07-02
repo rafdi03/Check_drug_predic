@@ -135,7 +135,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact & Support
 
-- **Author**: [rafdi03](https://github.com/rafdi03)
+- **Author**: [rafdi03](https://github.com/rafdi03) [Buitenzorx](https://github.com/Buitenzorx) 
 - **Email**: rafdi03@gmail.com
 - **Discussion & Issues**: [GitHub Issues](https://github.com/rafdi03/Check_drug_predic/issues)
 
