@@ -6,54 +6,54 @@
 
 ---
 
-## ✨ Deskripsi
+## ✨ Description
 
-**Check Drug Predict** adalah sebuah proyek open-source yang bertujuan untuk melakukan prediksi penggunaan obat berdasarkan data pasien atau fitur medis tertentu. Dengan menggabungkan teknologi machine learning, aplikasi ini memudahkan tenaga medis atau peneliti untuk mengidentifikasi jenis obat yang sesuai untuk pasien secara cepat dan akurat.
-
----
-
-## 🚀 Fitur Utama
-
-- **Prediksi Otomatis Obat**  
-  Memprediksi jenis obat berdasarkan data input pasien.
-- **Antarmuka Sederhana & User-Friendly**  
-  Mudah digunakan oleh pengguna baru maupun berpengalaman.
-- **Analisis Data**  
-  Menyediakan insight dari data pasien dan hasil prediksi.
-- **Model Machine Learning Terintegrasi**  
-  Menggunakan model ML terkini untuk meningkatkan akurasi prediksi.
-- **Ekstensi Mudah**  
-  Struktur kode modular memudahkan pengembangan lebih lanjut.
+**Check Drug Predict** is an open-source project designed to predict drug recommendations based on patient data or specific medical features. By leveraging machine learning technology, this application enables healthcare professionals or researchers to rapidly and accurately identify the most suitable medication for a patient.
 
 ---
 
-## 🏗️ Struktur Proyek
+## 🚀 Key Features
+
+- **Automatic Drug Prediction**  
+  Predicts the most suitable drug based on patient input data.
+- **Simple & User-Friendly Interface**  
+  Easy to use for both beginners and experienced users.
+- **Data Analysis**  
+  Provides insights from patient data and prediction results.
+- **Integrated Machine Learning Models**  
+  Uses up-to-date ML models to improve prediction accuracy.
+- **Easily Extendable**  
+  Modular code structure for easy further development.
+
+---
+
+## 🏗️ Project Structure
 
 ```
 Check_drug_predic/
 │
-├── data/               # Dataset dan file pendukung
-├── models/             # Model machine learning terlatih
-├── src/                # Kode sumber utama aplikasi
+├── data/               # Datasets and supporting files
+├── models/             # Pre-trained machine learning models
+├── src/                # Main source code
 │   ├── utils.py
 │   ├── predictor.py
 │   └── ...
-├── requirements.txt    # Daftar dependensi Python
-├── README.md           # Dokumentasi proyek
+├── requirements.txt    # Python dependencies
+├── README.md           # Project documentation
 └── ...
 ```
 
 ---
 
-## ⚙️ Cara Instalasi
+## ⚙️ Installation
 
-1. **Clone repo ini**
+1. **Clone this repository**
     ```bash
     git clone https://github.com/rafdi03/Check_drug_predic.git
     cd Check_drug_predic
     ```
 
-2. **Aktifkan virtual environment (opsional tapi disarankan)**
+2. **(Optional but recommended) Create a virtual environment**
     ```bash
     python -m venv venv
     source venv/bin/activate  # Linux/macOS
@@ -65,57 +65,61 @@ Check_drug_predic/
     pip install -r requirements.txt
     ```
 
-4. **Jalankan aplikasi**
+4. **Run the application**
     ```bash
-    python src/main.py
+    python src/main.py 
+    python flask run # u also can using this if get error 
+    python app.py    # or this 
     ```
 
 ---
 
-## 🧑‍💻 Contoh Penggunaan
+## 🧑‍💻 Usage Example
 
 ```python
 from src.predictor import predict_drug
 
-# Contoh data pasien
+# Example patient data
 patient_data = {
     'age': 45,
     'sex': 'F',
     'blood_pressure': 'HIGH',
     'cholesterol': 'NORMAL',
-    # ... fitur lain
+    # ... other features
 }
 
 result = predict_drug(patient_data)
-print(f"Prediksi obat yang direkomendasikan: {result}")
+print(f"Recommended drug prediction: {result}")
 ```
 
 ---
 
 ## 📊 Dataset
 
-Proyek ini menggunakan dataset medis (misal: [Drug Classification Dataset](https://www.kaggle.com/datasets/gauravduttakiit/drug-classification)) yang berisi fitur-fitur seperti usia, jenis kelamin, tekanan darah, kolesterol, dan lain-lain. Pastikan untuk menyesuaikan format dataset sesuai kebutuhan aplikasi.
+This project uses a medical dataset (e.g.: [Drug Classification Dataset](https://www.kaggle.com/datasets/gauravduttakiit/drug-classification)) containing features such as age, sex, blood pressure, cholesterol, and others. Make sure to adjust your dataset format as needed.
 
 ---
 
-## 💡 Kontribusi
+## 💡 Contribution
 
-Kontribusi sangat terbuka!  
-Silakan lakukan fork, buat branch baru, dan ajukan pull request jika ingin menambahkan fitur atau perbaikan.  
-Pastikan untuk membaca [CONTRIBUTING.md](CONTRIBUTING.md) sebelum mulai berkontribusi.
-
----
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+Contributions are very welcome!  
+Feel free to fork, create a new branch, and submit a pull request for new features or improvements.  
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before starting to contribute.
 
 ---
 
-## 📬 Kontak & Dukungan
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact & Support
 
 - **Author**: [rafdi03](https://github.com/rafdi03)
 - **Email**: rafdi03@gmail.com
-- **Diskusi**: Gunakan [Issues](https://github.com/rafdi03/Check_drug_predic/issues) untuk bertanya dan berdiskusi.
+- **Discussion**: Use [Issues](https://github.com/rafdi03/Check_drug_predic/issues) for questions and discussions.
 
 ---
+
+> _“With technology, health prediction becomes easier and faster.”_
