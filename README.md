@@ -146,12 +146,8 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### 🌈 Screenshots
+![ESP32 Hardware](https://github.com/user-attachments/assets/13c427b5-c2ad-4982-8129-fb016e94da1a)
 
-![Main UI](static/images/demo_main_ui.png)
-![Prediction History](static/images/demo_history.png)
-![ESP32 Hardware](static/images/demo_esp32.jpg)
-
----
 
 ### 🎨 Aesthetic & UX Highlights
 
