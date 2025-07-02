@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Vision System</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="main-wrapper">
+        <header class="header">
+            <h1 class="header-title">AI Vision System: Live Feed & Intelligent Analysis</h1>
+            <p class="header-subtitle">Real-time object recognition powered by VGG16</p>
+        </header>
+
+        <main class="content-grid">
+            <section class="card camera-card">
+                <h2 class="card-title"><i class="fas fa-video"></i> Live Camera Feed</h2>
+                <div class="camera-display">
+                    <img id="camera-image" src="" alt="Live Camera Feed" class="camera-image">
+                    <div id="loading-overlay" class="loading-overlay">
+                        <div class="spinner"></div>
+                        <p id="loading-status" class="loading-text">Establishing connection...</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="card prediction-card">
+                <h2 class="card-title"><i class="fas fa-brain"></i> ML Prediction <span class="model-name">(VGG16 Model)</span></h2>
+                <div id="prediction-results" class="prediction-results">
+                    <p class="initial-message">Awaiting first image for analysis...</p>
+                </div>
+                <div class="prediction-legend">
+                    <p>Confidence scores are shown from 0.0000 to 1.0000.</p>
+                </div>
+            </section>
+        </main>
+        
+        <section class="card history-card">
+            <h2 class="card-title"><i class="fas fa-history"></i> Prediction History</h2>
+            <div id="history-container" class="history-container">
+                <p class="initial-message">No history yet. Images will appear here after processing...</p>
+                </div>
+            <div class="card-footer">
+                <p>Displaying up to {{ MAX_HISTORY_ITEMS or 10 }} latest predictions.</p> </div>
+        </section>
+
+        <footer class="footer">
+            <p>&copy; 2025 UPN Veteran Jakarta.</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

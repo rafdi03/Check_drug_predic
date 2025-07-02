@@ -1,0 +1,414 @@
+/* static/style.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+/* Add Font Awesome if you use icons, otherwise remove */
+/* @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css'); */
+
+
+:root {
+    --bg-dark: #1a1a2e;
+    --bg-card: #20203a;
+    --text-light: #e0e0e0;
+    --text-accent: #8e44ad; /* Purple accent */
+    --text-subtle: #999;
+    --border-color: #3a3a5a;
+    --shadow-color-light: rgba(0, 0, 0, 0.2);
+    --shadow-color-dark: rgba(0, 0, 0, 0.5);
+    --gradient-start: #3f0f4a;
+    --gradient-end: #1a1a2e;
+
+    /* New for history card */
+    --history-item-bg: #2a2a42;
+    --history-item-border: #4a4a62;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+    color: var(--text-light);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+.main-wrapper {
+    background-color: rgba(32, 32, 58, 0.85); /* Semi-transparent dark background */
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px var(--shadow-color-dark);
+    max-width: 1200px;
+    width: 95%;
+    margin: 30px auto;
+    backdrop-filter: blur(8px); /* Frosted glass effect */
+    border: 1px solid var(--border-color);
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.header-title {
+    font-size: 2.8em;
+    color: var(--text-accent);
+    margin-bottom: 10px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-shadow: 0 0 10px rgba(142, 68, 173, 0.4);
+}
+
+.header-subtitle {
+    font-size: 1.2em;
+    color: var(--text-subtle);
+    font-weight: 300;
+}
+
+.content-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+@media (min-width: 768px) {
+    .content-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.card {
+    background-color: var(--bg-card);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px var(--shadow-color-light);
+    border: 1px solid var(--border-color);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Pushes content and legend apart */
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px var(--shadow-color-dark);
+}
+
+.card-title {
+    color: var(--text-accent);
+    font-size: 1.8em;
+    margin-bottom: 25px;
+    font-weight: 600;
+    display: flex; /* Allow icon to be next to text */
+    align-items: center;
+    justify-content: center; /* Center the title and icon */
+    gap: 10px; /* Space between icon and text */
+}
+
+.card-title i { /* Style for Font Awesome icons */
+    color: var(--secondary-accent-color, #ff4081); /* Use a secondary accent if defined, or fallback */
+    font-size: 0.9em;
+}
+
+.card-title .model-name {
+    font-size: 0.7em;
+    color: var(--text-subtle);
+    font-weight: 400;
+}
+
+/* Camera Feed Specific Styles */
+.camera-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.camera-display {
+    width: 100%;
+    max-width: 500px; /* Max width for the camera image container */
+    background-color: #000;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    min-height: 250px; /* Ensure a minimum height even if no image */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid var(--border-color);
+}
+
+.camera-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain; /* Ensure the image fits within the bounds */
+    transition: opacity 0.5s ease-in-out;
+    opacity: 0; /* Starts hidden, shown when loaded */
+}
+
+/* Loading Overlay for Camera Feed */
+.loading-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(32, 32, 58, 0.9); /* Slightly darker than card background */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--text-light);
+    transition: opacity 0.5s ease-in-out;
+    border-radius: 8px;
+}
+
+.loading-overlay.hidden {
+    opacity: 0;
+    pointer-events: none; /* Allows clicks through when hidden */
+}
+
+.spinner {
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    border-top: 4px solid var(--text-accent);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin-bottom: 15px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.loading-text {
+    font-size: 1.1em;
+    color: var(--text-subtle);
+}
+
+/* ML Prediction Specific Styles */
+.prediction-results {
+    font-size: 1.2em;
+    color: var(--text-light);
+    text-align: left;
+    margin-top: 15px; /* Adjust margin for better spacing */
+    flex-grow: 1; /* Allows it to take available space */
+}
+
+.prediction-results .initial-message {
+    color: var(--text-subtle);
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+}
+
+.prediction-results ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.prediction-results li {
+    padding: 8px 0;
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.prediction-results li:last-child {
+    border-bottom: none;
+}
+
+.prediction-label {
+    font-weight: 600;
+    color: var(--text-light);
+}
+
+.prediction-score {
+    font-weight: 400;
+    color: var(--text-accent);
+    background-color: rgba(142, 68, 173, 0.2);
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-family: 'SF Mono', 'Courier New', monospace; /* Monospace for scores */
+}
+
+.prediction-legend {
+    margin-top: 25px;
+    font-size: 0.9em;
+    color: var(--text-subtle);
+    border-top: 1px solid var(--border-color);
+    padding-top: 15px;
+    text-align: center;
+}
+
+
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-subtle);
+    font-size: 0.9em;
+}
+
+/* Subtle background animation */
+body::before {
+    content: '';
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle at top left, rgba(142, 68, 173, 0.1), transparent 50%),
+                radial-gradient(circle at bottom right, rgba(63, 15, 74, 0.1), transparent 50%);
+    animation: backgroundMove 20s infinite alternate;
+    z-index: -1;
+}
+
+@keyframes backgroundMove {
+    0% { transform: translate(0, 0); }
+    100% { transform: translate(10%, 10%); }
+}
+
+/* Scrollbar styles for a dark theme */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--text-accent);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #a968d1;
+}
+
+/* NEW: History Section Styles */
+.history-card {
+    /* History card can span full width below the main grid */
+    grid-column: 1 / -1; /* Spans all columns in the grid */
+    margin-top: 30px; /* Space from the content grid */
+    min-height: 200px;
+}
+
+.history-container {
+    max-height: 500px; /* Set a max height to enable scrolling */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding-right: 15px; /* Space for scrollbar */
+}
+
+/* Custom scrollbar for history container */
+.history-container::-webkit-scrollbar {
+    width: 8px;
+}
+.history-container::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+.history-container::-webkit-scrollbar-thumb {
+    background-color: var(--text-accent);
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+}
+.history-container::-webkit-scrollbar-thumb:hover {
+    background-color: #a968d1;
+}
+
+
+.history-item {
+    display: flex;
+    background-color: var(--history-item-bg);
+    border: 1px solid var(--history-item-border);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 15px;
+    gap: 20px;
+    align-items: center; /* Vertically align items */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+}
+
+.history-item:hover {
+    transform: translateY(-3px);
+}
+
+.history-item-image-wrapper {
+    flex-shrink: 0; /* Prevent image from shrinking */
+    width: 120px; /* Fixed width for history image */
+    height: 90px; /* Fixed height for history image */
+    background-color: #000;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.history-item-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* Ensure image fits */
+    display: block;
+}
+
+.history-item-details {
+    flex-grow: 1; /* Allow details to take remaining space */
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.history-timestamp {
+    font-size: 0.9em;
+    color: var(--text-subtle);
+    font-style: italic;
+}
+
+.history-prediction-label {
+    font-weight: 600;
+    color: var(--text-light);
+    font-size: 1.1em;
+}
+
+.history-prediction-score {
+    font-weight: 500;
+    color: var(--text-accent);
+    font-family: 'SF Mono', 'Courier New', monospace;
+    font-size: 1em;
+    background-color: rgba(142, 68, 173, 0.15);
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+/* Responsive adjustments for history items */
+@media (max-width: 600px) {
+    .history-item {
+        flex-direction: column;
+        text-align: center;
+    }
+    .history-item-image-wrapper {
+        width: 100%; /* Full width on small screens */
+        height: 150px; /* Taller on small screens */
+        margin-bottom: 10px;
+    }
+    .history-prediction-label {
+        font-size: 1em;
+    }
+    .history-prediction-score {
+        font-size: 0.9em;
+    }
+}

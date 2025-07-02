@@ -1,0 +1,2949 @@
+[2025-06-18 22:11:14] File: image_0018.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9629)
+   - Top 2 (Index 1): panadol (Skor: 0.0365)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0007)
+------------------------------
+[2025-06-18 22:11:28] File: image_0019.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9955)
+   - Top 2 (Index 1): panadol (Skor: 0.0043)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0002)
+------------------------------
+[2025-06-18 22:11:42] File: image_0020.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9999)
+   - Top 2 (Index 1): panadol (Skor: 0.0001)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:11:56] File: image_0021.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9997)
+   - Top 2 (Index 1): panadol (Skor: 0.0003)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:12:04] File: image_0022.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9993)
+   - Top 2 (Index 1): panadol (Skor: 0.0007)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:12:11] File: image_0023.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9409)
+   - Top 2 (Index 1): panadol (Skor: 0.0591)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:12:18] File: image_0024.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9999)
+   - Top 2 (Index 1): panadol (Skor: 0.0001)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:12:26] File: image_0025.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9996)
+   - Top 2 (Index 1): panadol (Skor: 0.0004)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:12:32] File: image_0026.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9978)
+   - Top 2 (Index 1): panadol (Skor: 0.0013)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0009)
+------------------------------
+[2025-06-18 22:12:41] File: image_0027.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9999)
+   - Top 2 (Index 1): panadol (Skor: 0.0001)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:12:50] File: image_0028.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9995)
+   - Top 2 (Index 1): panadol (Skor: 0.0005)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:13:11] File: image_0030.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9977)
+   - Top 2 (Index 1): panadol (Skor: 0.0023)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:13:18] File: image_0031.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9969)
+   - Top 2 (Index 1): panadol (Skor: 0.0031)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:13:25] File: image_0032.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9916)
+   - Top 2 (Index 1): panadol (Skor: 0.0084)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:13:32] File: image_0033.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.5704)
+   - Top 2 (Index 1): panadol (Skor: 0.4290)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0005)
+------------------------------
+[2025-06-18 22:13:40] File: image_0034.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9994)
+   - Top 2 (Index 1): panadol (Skor: 0.0006)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-18 22:13:48] File: image_0035.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9871)
+   - Top 2 (Index 1): panadol (Skor: 0.0129)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:17:05] File: image_0036.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.7275)
+   - Top 2 (Index 1): panadol (Skor: 0.2722)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0004)
+------------------------------
+[2025-06-18 22:17:15] File: image_0037.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9212)
+   - Top 2 (Index 1): panadol (Skor: 0.0787)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:17:31] File: image_0038.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9117)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0882)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:17:38] File: image_0039.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.8091)
+   - Top 2 (Index 2): procold_flu (Skor: 0.1909)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:17:45] File: image_0040.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9992)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0008)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:17:53] File: image_0041.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.8869)
+   - Top 2 (Index 2): procold_flu (Skor: 0.1131)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:18:00] File: image_0042.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9942)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0058)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:18:09] File: image_0043.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.7140)
+   - Top 2 (Index 2): procold_flu (Skor: 0.2857)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0003)
+------------------------------
+[2025-06-18 22:18:17] File: image_0044.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9993)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0007)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:18:22] File: image_0045.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9996)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0004)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:18:30] File: image_0046.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.8996)
+   - Top 2 (Index 2): procold_flu (Skor: 0.1003)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-18 22:18:37] File: image_0047.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.8052)
+   - Top 2 (Index 1): panadol (Skor: 0.1944)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0004)
+------------------------------
+[2025-06-18 22:19:10] File: image_0048.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9221)
+   - Top 2 (Index 1): panadol (Skor: 0.0778)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-18 22:19:25] File: image_0049.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.5499)
+   - Top 2 (Index 1): panadol (Skor: 0.4500)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-18 22:19:31] File: image_0050.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.5214)
+   - Top 2 (Index 2): procold_flu (Skor: 0.4784)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-18 22:19:55] File: image_0051.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.8136)
+   - Top 2 (Index 1): panadol (Skor: 0.1864)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:20:05] File: image_0052.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9880)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0120)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:20:14] File: image_0053.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9359)
+   - Top 2 (Index 1): panadol (Skor: 0.0641)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:20:21] File: image_0054.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9915)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0085)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:20:31] File: image_0055.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9986)
+   - Top 2 (Index 1): panadol (Skor: 0.0013)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:20:44] File: image_0056.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9967)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0033)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:20:55] File: image_0057.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9987)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0013)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:21:03] File: image_0058.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9968)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0032)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:21:10] File: image_0059.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.8285)
+   - Top 2 (Index 1): panadol (Skor: 0.1715)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 22:21:20] File: image_0060.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9067)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0933)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-18 23:19:05] File: image_0061.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.5352)
+   - Top 2 (Index 2): procold_flu (Skor: 0.4648)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 01:05:13] File: image_0062.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9695)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0302)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0004)
+------------------------------
+[2025-06-23 01:05:46] File: image_0063.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.8924)
+   - Top 2 (Index 2): procold_flu (Skor: 0.1068)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0008)
+------------------------------
+[2025-06-23 01:05:56] File: image_0064.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9681)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0316)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0002)
+------------------------------
+[2025-06-23 01:06:13] File: image_0065.jpg
+  Best Prediction Index (for Arduino): 0
+  Prediksi:
+   - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+   - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 01:07:14] File: image_0066.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.7605)
+   - Top 2 (Index 2): procold_flu (Skor: 0.2370)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0025)
+------------------------------
+[2025-06-23 01:07:23] File: image_0067.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.7465)
+   - Top 2 (Index 2): procold_flu (Skor: 0.2511)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0023)
+------------------------------
+[2025-06-23 01:07:35] File: image_0068.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9178)
+   - Top 2 (Index 1): panadol (Skor: 0.0807)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0015)
+------------------------------
+[2025-06-23 17:58:46] File: image_0069.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 1.0000)
+   - Top 2 (Index 1): panadol (Skor: 0.0000)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 17:58:51] File: image_0070.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 1.0000)
+   - Top 2 (Index 1): panadol (Skor: 0.0000)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 18:07:10] File: image_0071.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.6847)
+   - Top 2 (Index 2): procold_flu (Skor: 0.3112)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0040)
+------------------------------
+[2025-06-23 18:07:18] File: image_0072.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.5740)
+   - Top 2 (Index 1): panadol (Skor: 0.4176)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0084)
+------------------------------
+[2025-06-23 18:07:23] File: image_0073.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.6332)
+   - Top 2 (Index 1): panadol (Skor: 0.3592)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0076)
+------------------------------
+[2025-06-23 18:07:50] File: image_0074.jpg
+  Best Prediction Index (for Arduino): 0
+  Prediksi:
+   - Top 1 (Index 0): omeprazole (Skor: 0.9999)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0001)
+   - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 18:07:55] File: image_0075.jpg
+  Best Prediction Index (for Arduino): 0
+  Prediksi:
+   - Top 1 (Index 0): omeprazole (Skor: 0.9992)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0008)
+   - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 18:08:01] File: image_0076.jpg
+  Best Prediction Index (for Arduino): 0
+  Prediksi:
+   - Top 1 (Index 0): omeprazole (Skor: 0.9994)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0006)
+   - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 18:08:06] File: image_0077.jpg
+  Best Prediction Index (for Arduino): 0
+  Prediksi:
+   - Top 1 (Index 0): omeprazole (Skor: 0.9992)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0007)
+   - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 18:08:19] File: image_0078.jpg
+  Best Prediction Index (for Arduino): 0
+  Prediksi:
+   - Top 1 (Index 0): omeprazole (Skor: 0.9998)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0002)
+   - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 18:08:24] File: image_0079.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 1.0000)
+   - Top 2 (Index 1): panadol (Skor: 0.0000)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 18:10:45] File: image_0080.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.6712)
+   - Top 2 (Index 2): procold_flu (Skor: 0.3209)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0079)
+------------------------------
+[2025-06-23 19:36:36] File: image_0081.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.7783)
+   - Top 2 (Index 2): procold_flu (Skor: 0.2216)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:37:08] File: image_0082.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9948)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0051)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:37:16] File: image_0083.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9970)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0030)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:37:43] File: image_0084.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9819)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0178)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0003)
+------------------------------
+[2025-06-23 19:40:01] File: image_0085.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9860)
+   - Top 2 (Index 1): panadol (Skor: 0.0135)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0005)
+------------------------------
+[2025-06-23 19:40:19] File: image_0086.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9991)
+   - Top 2 (Index 1): panadol (Skor: 0.0009)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:41:40] File: image_0087.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9997)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0003)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:43:28] File: image_0088.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9987)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0013)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:45:29] File: image_0089.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9983)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0017)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:45:47] File: image_0090.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9993)
+   - Top 2 (Index 1): panadol (Skor: 0.0007)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:46:01] File: image_0091.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9954)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0045)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:46:37] File: image_0092.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+   - Top 2 (Index 1): panadol (Skor: 0.0002)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:47:16] File: image_0093.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9782)
+   - Top 2 (Index 0): omeprazole (Skor: 0.0212)
+   - Top 3 (Index 1): panadol (Skor: 0.0007)
+------------------------------
+[2025-06-23 19:48:55] File: image_0094.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9913)
+   - Top 2 (Index 1): panadol (Skor: 0.0084)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0003)
+------------------------------
+[2025-06-23 19:49:28] File: image_0095.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9835)
+   - Top 2 (Index 1): panadol (Skor: 0.0164)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 19:49:51] File: image_0096.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.9925)
+   - Top 2 (Index 2): procold_flu (Skor: 0.0075)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:50:10] File: image_0097.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.8254)
+   - Top 2 (Index 1): panadol (Skor: 0.1740)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0006)
+------------------------------
+[2025-06-23 19:50:18] File: image_0098.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.8599)
+   - Top 2 (Index 1): panadol (Skor: 0.1397)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0004)
+------------------------------
+[2025-06-23 19:50:25] File: image_0099.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.8583)
+   - Top 2 (Index 1): panadol (Skor: 0.1413)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0004)
+------------------------------
+[2025-06-23 19:50:37] File: image_0100.jpg
+  Best Prediction Index (for Arduino): 1
+  Prediksi:
+   - Top 1 (Index 1): panadol (Skor: 0.8562)
+   - Top 2 (Index 2): procold_flu (Skor: 0.1438)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:50:44] File: image_0101.jpg
+  Best Prediction Index (for Arduino): 2
+  Prediksi:
+   - Top 1 (Index 2): procold_flu (Skor: 0.9112)
+   - Top 2 (Index 1): panadol (Skor: 0.0888)
+   - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:54:29] File: image_0102.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 0.9140
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 0.9140)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0521)
+     - Top 3 (Index 1): panadol (Skor: 0.0339)
+------------------------------
+[2025-06-23 19:54:35] File: image_0103.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.5573
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.5573)
+     - Top 2 (Index 2): procold_flu (Skor: 0.4014)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0413)
+------------------------------
+[2025-06-23 19:56:28] File: image_0104.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9332
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9332)
+     - Top 2 (Index 1): panadol (Skor: 0.0668)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:56:35] File: image_0105.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8839
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8839)
+     - Top 2 (Index 1): panadol (Skor: 0.1161)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 19:59:52] File: image_0106.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.7328
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.7328)
+     - Top 2 (Index 1): panadol (Skor: 0.2672)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:05] File: image_0107.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:08] File: image_0108.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:12] File: image_0109.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:15] File: image_0110.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:19] File: image_0111.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:22] File: image_0112.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:26] File: image_0113.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:29] File: image_0114.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:33] File: image_0115.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:37] File: image_0116.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:40] File: image_0117.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:44] File: image_0118.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:47] File: image_0119.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:51] File: image_0120.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:54] File: image_0121.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9997
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9997)
+     - Top 2 (Index 1): panadol (Skor: 0.0003)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:07:58] File: image_0122.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:02] File: image_0123.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9997
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9997)
+     - Top 2 (Index 1): panadol (Skor: 0.0003)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:05] File: image_0124.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:09] File: image_0125.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:12] File: image_0126.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:16] File: image_0127.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:19] File: image_0128.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:23] File: image_0129.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:27] File: image_0130.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:30] File: image_0131.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:34] File: image_0132.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:38] File: image_0133.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:41] File: image_0134.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:45] File: image_0135.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:48] File: image_0136.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:52] File: image_0137.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9997
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9997)
+     - Top 2 (Index 1): panadol (Skor: 0.0003)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:55] File: image_0138.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:08:59] File: image_0139.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:03] File: image_0140.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:06] File: image_0141.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:10] File: image_0142.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:13] File: image_0143.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:17] File: image_0144.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9998)
+     - Top 2 (Index 1): panadol (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:21] File: image_0145.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9997
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9997)
+     - Top 2 (Index 1): panadol (Skor: 0.0003)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:24] File: image_0146.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9996
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9996)
+     - Top 2 (Index 1): panadol (Skor: 0.0004)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:28] File: image_0147.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 1.0000)
+     - Top 2 (Index 1): panadol (Skor: 0.0000)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:31] File: image_0148.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9989
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9989)
+     - Top 2 (Index 1): panadol (Skor: 0.0011)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:35] File: image_0149.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7047
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7047)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2890)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0063)
+------------------------------
+[2025-06-23 20:09:39] File: image_0150.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7347
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7347)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2572)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0081)
+------------------------------
+[2025-06-23 20:09:42] File: image_0151.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8956
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8956)
+     - Top 2 (Index 1): panadol (Skor: 0.0810)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0235)
+------------------------------
+[2025-06-23 20:09:46] File: image_0152.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.6393
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.6393)
+     - Top 2 (Index 1): panadol (Skor: 0.3607)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:49] File: image_0153.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9749
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9749)
+     - Top 2 (Index 1): panadol (Skor: 0.0251)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:53] File: image_0154.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.6527
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.6527)
+     - Top 2 (Index 2): procold_flu (Skor: 0.3473)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:09:56] File: image_0155.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8393
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8393)
+     - Top 2 (Index 1): panadol (Skor: 0.1607)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:00] File: image_0156.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9301
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9301)
+     - Top 2 (Index 1): panadol (Skor: 0.0699)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:04] File: image_0157.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9692
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9692)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0308)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:07] File: image_0158.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9480
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9480)
+     - Top 2 (Index 1): panadol (Skor: 0.0519)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:10:11] File: image_0159.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9454
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9454)
+     - Top 2 (Index 1): panadol (Skor: 0.0545)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:14] File: image_0160.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9533
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9533)
+     - Top 2 (Index 1): panadol (Skor: 0.0465)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0002)
+------------------------------
+[2025-06-23 20:10:18] File: image_0161.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7283
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7283)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2717)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:21] File: image_0162.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8426
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8426)
+     - Top 2 (Index 1): panadol (Skor: 0.1572)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0002)
+------------------------------
+[2025-06-23 20:10:25] File: image_0163.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9959
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9959)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0041)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:29] File: image_0164.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.7059
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.7059)
+     - Top 2 (Index 1): panadol (Skor: 0.2941)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:32] File: image_0165.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9999
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9999)
+     - Top 2 (Index 1): panadol (Skor: 0.0001)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:36] File: image_0166.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9739
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9739)
+     - Top 2 (Index 1): panadol (Skor: 0.0261)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:39] File: image_0167.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9600
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9600)
+     - Top 2 (Index 1): panadol (Skor: 0.0400)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:10:43] File: image_0168.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9938
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9938)
+     - Top 2 (Index 1): panadol (Skor: 0.0062)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:47] File: image_0169.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9934
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9934)
+     - Top 2 (Index 1): panadol (Skor: 0.0066)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:50] File: image_0170.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9941
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9941)
+     - Top 2 (Index 1): panadol (Skor: 0.0059)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:54] File: image_0171.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9931
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9931)
+     - Top 2 (Index 1): panadol (Skor: 0.0068)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:10:57] File: image_0172.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9939
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9939)
+     - Top 2 (Index 1): panadol (Skor: 0.0061)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:01] File: image_0173.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9944
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9944)
+     - Top 2 (Index 1): panadol (Skor: 0.0056)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:04] File: image_0174.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9952
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9952)
+     - Top 2 (Index 1): panadol (Skor: 0.0048)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:08] File: image_0175.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9951
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9951)
+     - Top 2 (Index 1): panadol (Skor: 0.0048)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:12] File: image_0176.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9948
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9948)
+     - Top 2 (Index 1): panadol (Skor: 0.0052)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:15] File: image_0177.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9965
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9965)
+     - Top 2 (Index 1): panadol (Skor: 0.0035)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:19] File: image_0178.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9961
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9961)
+     - Top 2 (Index 1): panadol (Skor: 0.0039)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:23] File: image_0179.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8809
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8809)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1191)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:26] File: image_0180.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9824
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9824)
+     - Top 2 (Index 1): panadol (Skor: 0.0175)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:11:30] File: image_0181.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9805
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9805)
+     - Top 2 (Index 1): panadol (Skor: 0.0194)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:11:33] File: image_0182.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9873
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9873)
+     - Top 2 (Index 1): panadol (Skor: 0.0126)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:37] File: image_0183.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9812
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9812)
+     - Top 2 (Index 1): panadol (Skor: 0.0188)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:11:41] File: image_0184.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9850
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9850)
+     - Top 2 (Index 1): panadol (Skor: 0.0149)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:44] File: image_0185.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9882
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9882)
+     - Top 2 (Index 1): panadol (Skor: 0.0118)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:48] File: image_0186.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9875
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9875)
+     - Top 2 (Index 1): panadol (Skor: 0.0125)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:52] File: image_0187.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9864
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9864)
+     - Top 2 (Index 1): panadol (Skor: 0.0135)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:55] File: image_0188.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9902
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9902)
+     - Top 2 (Index 1): panadol (Skor: 0.0098)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:11:59] File: image_0189.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9839
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9839)
+     - Top 2 (Index 1): panadol (Skor: 0.0161)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:11] File: image_0190.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9958
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9958)
+     - Top 2 (Index 1): panadol (Skor: 0.0042)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:15] File: image_0191.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9869
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9869)
+     - Top 2 (Index 1): panadol (Skor: 0.0130)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:18] File: image_0192.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9892
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9892)
+     - Top 2 (Index 1): panadol (Skor: 0.0108)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:22] File: image_0193.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9867
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9867)
+     - Top 2 (Index 1): panadol (Skor: 0.0133)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:26] File: image_0194.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9864
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9864)
+     - Top 2 (Index 1): panadol (Skor: 0.0135)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:29] File: image_0195.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9878
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9878)
+     - Top 2 (Index 1): panadol (Skor: 0.0121)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:33] File: image_0196.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9863
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9863)
+     - Top 2 (Index 1): panadol (Skor: 0.0137)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:36] File: image_0197.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9878
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9878)
+     - Top 2 (Index 1): panadol (Skor: 0.0122)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:40] File: image_0198.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9898
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9898)
+     - Top 2 (Index 1): panadol (Skor: 0.0102)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:43] File: image_0199.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9875
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9875)
+     - Top 2 (Index 1): panadol (Skor: 0.0125)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:47] File: image_0200.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9897
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9897)
+     - Top 2 (Index 1): panadol (Skor: 0.0103)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:51] File: image_0201.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9858
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9858)
+     - Top 2 (Index 1): panadol (Skor: 0.0142)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:54] File: image_0202.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9828
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9828)
+     - Top 2 (Index 1): panadol (Skor: 0.0172)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:12:58] File: image_0203.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9824
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9824)
+     - Top 2 (Index 1): panadol (Skor: 0.0175)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:02] File: image_0204.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9822
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9822)
+     - Top 2 (Index 1): panadol (Skor: 0.0177)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:05] File: image_0205.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9811
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9811)
+     - Top 2 (Index 1): panadol (Skor: 0.0189)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:09] File: image_0206.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9809
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9809)
+     - Top 2 (Index 1): panadol (Skor: 0.0191)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:12] File: image_0207.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9813
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9813)
+     - Top 2 (Index 1): panadol (Skor: 0.0187)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:16] File: image_0208.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9861
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9861)
+     - Top 2 (Index 1): panadol (Skor: 0.0138)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:19] File: image_0209.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9858
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9858)
+     - Top 2 (Index 1): panadol (Skor: 0.0142)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:23] File: image_0210.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9842
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9842)
+     - Top 2 (Index 1): panadol (Skor: 0.0157)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:27] File: image_0211.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9804
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9804)
+     - Top 2 (Index 1): panadol (Skor: 0.0196)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:30] File: image_0212.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9791
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9791)
+     - Top 2 (Index 1): panadol (Skor: 0.0208)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:34] File: image_0213.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9797
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9797)
+     - Top 2 (Index 1): panadol (Skor: 0.0202)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:13:37] File: image_0214.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9820
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9820)
+     - Top 2 (Index 1): panadol (Skor: 0.0180)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:41] File: image_0215.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9802
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9802)
+     - Top 2 (Index 1): panadol (Skor: 0.0198)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:44] File: image_0216.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9770
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9770)
+     - Top 2 (Index 1): panadol (Skor: 0.0229)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:48] File: image_0217.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9785
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9785)
+     - Top 2 (Index 1): panadol (Skor: 0.0215)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:51] File: image_0218.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9742
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9742)
+     - Top 2 (Index 1): panadol (Skor: 0.0258)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:13:55] File: image_0219.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9790
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9790)
+     - Top 2 (Index 1): panadol (Skor: 0.0209)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:13:58] File: image_0220.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9775
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9775)
+     - Top 2 (Index 1): panadol (Skor: 0.0225)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:14:02] File: image_0221.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9761
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9761)
+     - Top 2 (Index 1): panadol (Skor: 0.0238)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:14:05] File: image_0222.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9794
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9794)
+     - Top 2 (Index 1): panadol (Skor: 0.0206)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:14:09] File: image_0223.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9818
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9818)
+     - Top 2 (Index 1): panadol (Skor: 0.0181)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:14:13] File: image_0224.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9787
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9787)
+     - Top 2 (Index 1): panadol (Skor: 0.0213)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:14:16] File: image_0225.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9768
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9768)
+     - Top 2 (Index 1): panadol (Skor: 0.0231)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:14:20] File: image_0226.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9810
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9810)
+     - Top 2 (Index 1): panadol (Skor: 0.0189)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:14:23] File: image_0227.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9790
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9790)
+     - Top 2 (Index 1): panadol (Skor: 0.0210)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:14:27] File: image_0228.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9784
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9784)
+     - Top 2 (Index 1): panadol (Skor: 0.0215)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:14:30] File: image_0229.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9828
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9828)
+     - Top 2 (Index 1): panadol (Skor: 0.0171)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:14:34] File: image_0230.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9809
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9809)
+     - Top 2 (Index 1): panadol (Skor: 0.0191)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:14:37] File: image_0231.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9792
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9792)
+     - Top 2 (Index 1): panadol (Skor: 0.0207)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:14:41] File: image_0232.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9792
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9792)
+     - Top 2 (Index 1): panadol (Skor: 0.0208)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:14:45] File: image_0233.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9790
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9790)
+     - Top 2 (Index 1): panadol (Skor: 0.0209)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:15:50] File: image_0234.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9973
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9973)
+     - Top 2 (Index 1): panadol (Skor: 0.0027)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:16:02] File: image_0235.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9837
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9837)
+     - Top 2 (Index 1): panadol (Skor: 0.0159)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0003)
+------------------------------
+[2025-06-23 20:16:14] File: image_0236.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9980
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9980)
+     - Top 2 (Index 1): panadol (Skor: 0.0020)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:16:25] File: image_0237.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9804
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9804)
+     - Top 2 (Index 1): panadol (Skor: 0.0194)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0002)
+------------------------------
+[2025-06-23 20:20:42] File: image_0238.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8384
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8384)
+     - Top 2 (Index 1): panadol (Skor: 0.1610)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0006)
+------------------------------
+[2025-06-23 20:20:54] File: image_0239.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9968
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9968)
+     - Top 2 (Index 1): panadol (Skor: 0.0030)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0002)
+------------------------------
+[2025-06-23 20:24:28] File: image_0240.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8264
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8264)
+     - Top 2 (Index 1): panadol (Skor: 0.1735)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:24:39] File: image_0241.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9992
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9992)
+     - Top 2 (Index 1): panadol (Skor: 0.0008)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:28:24] File: image_0242.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9991
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9991)
+     - Top 2 (Index 1): panadol (Skor: 0.0009)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:36:20] File: image_0243.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9992
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9992)
+     - Top 2 (Index 1): panadol (Skor: 0.0008)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:36:30] File: image_0244.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.7745
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.7745)
+     - Top 2 (Index 1): panadol (Skor: 0.2254)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:38:14] File: image_0245.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9360
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9360)
+     - Top 2 (Index 1): panadol (Skor: 0.0639)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:41:26] File: image_0246.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.5488
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.5488)
+     - Top 2 (Index 1): panadol (Skor: 0.4511)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 20:50:17] File: image_0247.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9978
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9978)
+     - Top 2 (Index 1): panadol (Skor: 0.0022)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:50:36] File: image_0248.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9982
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9982)
+     - Top 2 (Index 1): panadol (Skor: 0.0018)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:56:21] File: image_0249.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8188
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8188)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1812)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:56:30] File: image_0250.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8190
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8190)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1809)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:56:46] File: image_0251.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9387
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9387)
+     - Top 2 (Index 1): panadol (Skor: 0.0613)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:56:59] File: image_0252.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9762
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9762)
+     - Top 2 (Index 1): panadol (Skor: 0.0237)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:57:37] File: image_0253.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9931
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9931)
+     - Top 2 (Index 1): panadol (Skor: 0.0069)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:57:46] File: image_0254.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9690
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9690)
+     - Top 2 (Index 1): panadol (Skor: 0.0310)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:58:06] File: image_0255.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8494
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8494)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1506)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:58:18] File: image_0256.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7936
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7936)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2063)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:58:41] File: image_0257.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8271
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8271)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1729)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:59:37] File: image_0258.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 20:59:46] File: image_0259.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:01:21] File: image_0260.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:01:30] File: image_0261.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:01:58] File: image_0262.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.6224
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.6224)
+     - Top 2 (Index 2): procold_flu (Skor: 0.3770)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0006)
+------------------------------
+[2025-06-23 21:02:07] File: image_0263.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.5190
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.5190)
+     - Top 2 (Index 1): panadol (Skor: 0.4798)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0013)
+------------------------------
+[2025-06-23 21:02:16] File: image_0264.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.6788
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.6788)
+     - Top 2 (Index 1): panadol (Skor: 0.3206)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0006)
+------------------------------
+[2025-06-23 21:02:34] File: image_0265.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8219
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8219)
+     - Top 2 (Index 1): panadol (Skor: 0.0981)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0800)
+------------------------------
+[2025-06-23 21:13:47] File: image_0266.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8757
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8757)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1176)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0066)
+------------------------------
+[2025-06-23 21:13:56] File: image_0267.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8905
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8905)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1023)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0072)
+------------------------------
+[2025-06-23 21:21:22] File: image_0268.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9901
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9901)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0096)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0003)
+------------------------------
+[2025-06-23 21:21:32] File: image_0269.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9804
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9804)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0195)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 21:21:46] File: image_0270.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:22:17] File: image_0271.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.4317
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.4317)
+     - Top 2 (Index 0): omeprazole (Skor: 0.3648)
+     - Top 3 (Index 1): panadol (Skor: 0.2035)
+------------------------------
+[2025-06-23 21:44:16] File: image_0272.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.6790
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.6790)
+     - Top 2 (Index 2): procold_flu (Skor: 0.3132)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0078)
+------------------------------
+[2025-06-23 21:45:34] File: image_0273.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.6826
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.6826)
+     - Top 2 (Index 2): procold_flu (Skor: 0.3100)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0074)
+------------------------------
+[2025-06-23 21:46:09] File: image_0274.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9191
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9191)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0803)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0006)
+------------------------------
+[2025-06-23 21:46:18] File: image_0275.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9057
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9057)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0935)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0008)
+------------------------------
+[2025-06-23 21:46:27] File: image_0276.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9902
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9902)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0098)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:46:45] File: image_0277.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9015
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9015)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0970)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0015)
+------------------------------
+[2025-06-23 21:46:59] File: image_0278.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7740
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7740)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2259)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 21:47:08] File: image_0279.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9956
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9956)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0044)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:47:24] File: image_0280.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9989
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9989)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0011)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:47:42] File: image_0281.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9884
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9884)
+     - Top 2 (Index 1): panadol (Skor: 0.0116)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:47:51] File: image_0282.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9996
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9996)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0004)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:48:01] File: image_0283.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9992
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9992)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0008)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:48:41] File: image_0284.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9850
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9850)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0150)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:48:51] File: image_0285.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7609
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7609)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2390)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 21:49:13] File: image_0286.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7058
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7058)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2942)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 21:49:22] File: image_0287.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.6210
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.6210)
+     - Top 2 (Index 2): procold_flu (Skor: 0.3788)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0002)
+------------------------------
+[2025-06-23 21:49:33] File: image_0288.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.7944
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.7944)
+     - Top 2 (Index 1): panadol (Skor: 0.2056)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:49:41] File: image_0289.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9992
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9992)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0008)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:49:57] File: image_0290.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9672
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9672)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0328)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:50:08] File: image_0291.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9513
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9513)
+     - Top 2 (Index 1): panadol (Skor: 0.0486)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 21:50:19] File: image_0292.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9991
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9991)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0009)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:50:29] File: image_0293.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9312
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9312)
+     - Top 2 (Index 1): panadol (Skor: 0.0681)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0007)
+------------------------------
+[2025-06-23 21:50:38] File: image_0294.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9784
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9784)
+     - Top 2 (Index 1): panadol (Skor: 0.0216)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 21:50:48] File: image_0295.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8213
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8213)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1591)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0196)
+------------------------------
+[2025-06-23 21:51:19] File: image_0296.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7768
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7768)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1784)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0448)
+------------------------------
+[2025-06-23 21:51:27] File: image_0297.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.7127
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.7127)
+     - Top 2 (Index 1): panadol (Skor: 0.2757)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0116)
+------------------------------
+[2025-06-23 21:51:45] File: image_0298.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.6895
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.6895)
+     - Top 2 (Index 1): panadol (Skor: 0.2976)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0130)
+------------------------------
+[2025-06-23 21:52:52] File: image_0299.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8452
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8452)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1546)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 21:53:07] File: image_0300.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9985
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9985)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0015)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:53:24] File: image_0301.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9996
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9996)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0004)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:53:35] File: image_0302.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9748
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9748)
+     - Top 2 (Index 1): panadol (Skor: 0.0252)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:53:55] File: image_0303.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9725
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9725)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0269)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0006)
+------------------------------
+[2025-06-23 21:54:46] File: image_0304.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8968
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8968)
+     - Top 2 (Index 1): panadol (Skor: 0.1027)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0005)
+------------------------------
+[2025-06-23 21:55:13] File: image_0305.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9073
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9073)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0924)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0003)
+------------------------------
+[2025-06-23 21:55:24] File: image_0306.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9870
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9870)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0130)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:55:35] File: image_0307.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.7006
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.7006)
+     - Top 2 (Index 1): panadol (Skor: 0.2861)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0133)
+------------------------------
+[2025-06-23 21:55:47] File: image_0308.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.6859
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.6859)
+     - Top 2 (Index 0): omeprazole (Skor: 0.2033)
+     - Top 3 (Index 1): panadol (Skor: 0.1108)
+------------------------------
+[2025-06-23 21:55:59] File: image_0309.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9541
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9541)
+     - Top 2 (Index 1): panadol (Skor: 0.0456)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0003)
+------------------------------
+[2025-06-23 21:56:16] File: image_0310.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9870
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9870)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0129)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:56:27] File: image_0311.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9924
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9924)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0076)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:56:42] File: image_0312.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9575
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9575)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0425)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:56:51] File: image_0313.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8885
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8885)
+     - Top 2 (Index 1): panadol (Skor: 0.0689)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0426)
+------------------------------
+[2025-06-23 21:57:09] File: image_0314.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9987
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9987)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0013)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:57:17] File: image_0315.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9783
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9783)
+     - Top 2 (Index 1): panadol (Skor: 0.0212)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0005)
+------------------------------
+[2025-06-23 21:57:35] File: image_0316.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.5130
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.5130)
+     - Top 2 (Index 2): procold_flu (Skor: 0.4870)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:57:47] File: image_0317.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.5368
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.5368)
+     - Top 2 (Index 1): panadol (Skor: 0.4632)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:57:56] File: image_0318.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9992
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9992)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0008)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 21:58:06] File: image_0319.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9879
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9879)
+     - Top 2 (Index 1): panadol (Skor: 0.0097)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0024)
+------------------------------
+[2025-06-23 21:58:16] File: image_0320.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8858
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8858)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1106)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0036)
+------------------------------
+[2025-06-23 21:58:25] File: image_0321.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9887
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9887)
+     - Top 2 (Index 1): panadol (Skor: 0.0089)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0024)
+------------------------------
+[2025-06-23 21:58:37] File: image_0322.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8000
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8000)
+     - Top 2 (Index 1): panadol (Skor: 0.1259)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0741)
+------------------------------
+[2025-06-23 21:58:56] File: image_0323.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8789
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8789)
+     - Top 2 (Index 1): panadol (Skor: 0.0753)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0457)
+------------------------------
+[2025-06-23 21:59:05] File: image_0324.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.5489
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.5489)
+     - Top 2 (Index 0): omeprazole (Skor: 0.4463)
+     - Top 3 (Index 1): panadol (Skor: 0.0047)
+------------------------------
+[2025-06-23 21:59:17] File: image_0325.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 0.5708
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 0.5708)
+     - Top 2 (Index 2): procold_flu (Skor: 0.4252)
+     - Top 3 (Index 1): panadol (Skor: 0.0040)
+------------------------------
+[2025-06-23 21:59:33] File: image_0326.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.6048
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.6048)
+     - Top 2 (Index 1): panadol (Skor: 0.2526)
+     - Top 3 (Index 0): omeprazole (Skor: 0.1426)
+------------------------------
+[2025-06-23 21:59:45] File: image_0327.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9939
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9939)
+     - Top 2 (Index 0): omeprazole (Skor: 0.0043)
+     - Top 3 (Index 1): panadol (Skor: 0.0018)
+------------------------------
+[2025-06-23 21:59:57] File: image_0328.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9936
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9936)
+     - Top 2 (Index 1): panadol (Skor: 0.0054)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0010)
+------------------------------
+[2025-06-23 22:00:30] File: image_0329.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.4468
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.4468)
+     - Top 2 (Index 1): panadol (Skor: 0.4087)
+     - Top 3 (Index 0): omeprazole (Skor: 0.1444)
+------------------------------
+[2025-06-23 22:01:12] File: image_0330.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9644
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9644)
+     - Top 2 (Index 1): panadol (Skor: 0.0338)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0018)
+------------------------------
+[2025-06-23 22:01:21] File: image_0331.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.7790
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.7790)
+     - Top 2 (Index 0): omeprazole (Skor: 0.1670)
+     - Top 3 (Index 1): panadol (Skor: 0.0540)
+------------------------------
+[2025-06-23 22:01:29] File: image_0332.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 0.9325
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 0.9325)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0628)
+     - Top 3 (Index 1): panadol (Skor: 0.0047)
+------------------------------
+[2025-06-23 22:01:40] File: image_0333.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.6498
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.6498)
+     - Top 2 (Index 1): panadol (Skor: 0.3500)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0003)
+------------------------------
+[2025-06-23 22:01:53] File: image_0334.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9837
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9837)
+     - Top 2 (Index 1): panadol (Skor: 0.0156)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0007)
+------------------------------
+[2025-06-23 22:02:04] File: image_0335.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.6334
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.6334)
+     - Top 2 (Index 1): panadol (Skor: 0.3664)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0002)
+------------------------------
+[2025-06-23 22:05:14] File: image_0336.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9968
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9968)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0032)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:05:22] File: image_0337.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9974
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9974)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0026)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:05:34] File: image_0338.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8783
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8783)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1217)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:06:21] File: image_0339.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9970
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9970)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0030)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:06:32] File: image_0340.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9969
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9969)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0031)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:06:43] File: image_0341.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9994
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9994)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0006)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:06:53] File: image_0342.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9981
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9981)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0019)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:07:03] File: image_0343.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9752
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9752)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0246)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0002)
+------------------------------
+[2025-06-23 22:07:25] File: image_0344.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9841
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9841)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0159)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:07:34] File: image_0345.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.6457
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.6457)
+     - Top 2 (Index 0): omeprazole (Skor: 0.2587)
+     - Top 3 (Index 1): panadol (Skor: 0.0957)
+------------------------------
+[2025-06-23 22:07:53] File: image_0346.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9979
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9979)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0021)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:08:01] File: image_0347.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9984
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9984)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0016)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:08:26] File: image_0348.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9998
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9998)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0002)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:08:37] File: image_0349.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9997
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9997)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0003)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:08:47] File: image_0350.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9991
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9991)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0009)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:08:57] File: image_0351.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7296
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7296)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2560)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0144)
+------------------------------
+[2025-06-23 22:09:08] File: image_0352.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 0.7985
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 0.7985)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1906)
+     - Top 3 (Index 1): panadol (Skor: 0.0108)
+------------------------------
+[2025-06-23 22:09:18] File: image_0353.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.6559
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.6559)
+     - Top 2 (Index 0): omeprazole (Skor: 0.2459)
+     - Top 3 (Index 2): procold_flu (Skor: 0.0982)
+------------------------------
+[2025-06-23 22:09:28] File: image_0354.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 0.8922
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 0.8922)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0838)
+     - Top 3 (Index 1): panadol (Skor: 0.0240)
+------------------------------
+[2025-06-23 22:09:37] File: image_0355.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 0.4887
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 0.4887)
+     - Top 2 (Index 1): panadol (Skor: 0.2680)
+     - Top 3 (Index 2): procold_flu (Skor: 0.2433)
+------------------------------
+[2025-06-23 22:09:53] File: image_0356.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7398
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7398)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2477)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0126)
+------------------------------
+[2025-06-23 22:10:03] File: image_0357.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7814
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7814)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2094)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0092)
+------------------------------
+[2025-06-23 22:10:14] File: image_0358.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.6746
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.6746)
+     - Top 2 (Index 2): procold_flu (Skor: 0.3252)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0002)
+------------------------------
+[2025-06-23 22:10:22] File: image_0359.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9995
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9995)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0005)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:10:30] File: image_0360.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.5453
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.5453)
+     - Top 2 (Index 1): panadol (Skor: 0.4508)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0040)
+------------------------------
+[2025-06-23 22:10:39] File: image_0361.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.4950
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.4950)
+     - Top 2 (Index 2): procold_flu (Skor: 0.4925)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0125)
+------------------------------
+[2025-06-23 22:10:49] File: image_0362.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9983
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9983)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0017)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:10:57] File: image_0363.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9974
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9974)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0026)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:11:07] File: image_0364.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9189
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9189)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0805)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0006)
+------------------------------
+[2025-06-23 22:11:16] File: image_0365.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9991
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9991)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0009)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:11:25] File: image_0366.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9992
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9992)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0008)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:11:34] File: image_0367.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9965
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9965)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0035)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:11:58] File: image_0368.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9726
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9726)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0274)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:12:08] File: image_0369.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9762
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9762)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0237)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 22:16:08] File: image_0370.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:16:20] File: image_0371.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:16:30] File: image_0372.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:16:38] File: image_0373.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:16:47] File: image_0374.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:16:57] File: image_0375.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:17:09] File: image_0376.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:17:19] File: image_0377.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:17:37] File: image_0378.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:17:47] File: image_0379.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:55:04] File: image_0001.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9389
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9389)
+     - Top 2 (Index 1): panadol (Skor: 0.0607)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0004)
+------------------------------
+[2025-06-23 22:56:38] File: image_0002.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.8886
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.8886)
+     - Top 2 (Index 2): procold_flu (Skor: 0.1113)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 22:57:02] File: image_0003.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8764
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8764)
+     - Top 2 (Index 1): panadol (Skor: 0.1233)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0003)
+------------------------------
+[2025-06-23 22:57:15] File: image_0004.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9286
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9286)
+     - Top 2 (Index 1): panadol (Skor: 0.0714)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:57:29] File: image_0005.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9654
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9654)
+     - Top 2 (Index 1): panadol (Skor: 0.0346)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:57:38] File: image_0006.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9601
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9601)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0399)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:57:48] File: image_0007.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.7549
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.7549)
+     - Top 2 (Index 2): procold_flu (Skor: 0.2450)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 22:57:58] File: image_0008.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8036
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8036)
+     - Top 2 (Index 1): panadol (Skor: 0.1963)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0001)
+------------------------------
+[2025-06-23 22:58:17] File: image_0009.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.7392
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.7392)
+     - Top 2 (Index 1): panadol (Skor: 0.2601)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0007)
+------------------------------
+[2025-06-23 22:58:44] File: image_0010.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.8239
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.8239)
+     - Top 2 (Index 1): panadol (Skor: 0.1741)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0019)
+------------------------------
+[2025-06-23 22:59:21] File: image_0011.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 1.0000
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 1.0000)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0000)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:59:35] File: image_0012.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9946
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9946)
+     - Top 2 (Index 1): panadol (Skor: 0.0054)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 22:59:54] File: image_0013.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.6158
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.6158)
+     - Top 2 (Index 2): procold_flu (Skor: 0.3841)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 23:05:27] File: image_0014.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9519
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9519)
+     - Top 2 (Index 1): panadol (Skor: 0.0480)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 23:05:46] File: image_0015.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9165
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9165)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0835)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 23:05:55] File: image_0016.jpg
+   Best Prediction Index (for Arduino): 0
+   Best Prediction Score (for ESP32): 0.9999
+   Prediksi:
+     - Top 1 (Index 0): omeprazole (Skor: 0.9999)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0001)
+     - Top 3 (Index 1): panadol (Skor: 0.0000)
+------------------------------
+[2025-06-23 23:06:10] File: image_0017.jpg
+   Best Prediction Index (for Arduino): 2
+   Best Prediction Score (for ESP32): 0.9891
+   Prediksi:
+     - Top 1 (Index 2): procold_flu (Skor: 0.9891)
+     - Top 2 (Index 1): panadol (Skor: 0.0109)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
+[2025-06-23 23:06:47] File: image_0018.jpg
+   Best Prediction Index (for Arduino): 1
+   Best Prediction Score (for ESP32): 0.9791
+   Prediksi:
+     - Top 1 (Index 1): panadol (Skor: 0.9791)
+     - Top 2 (Index 2): procold_flu (Skor: 0.0209)
+     - Top 3 (Index 0): omeprazole (Skor: 0.0000)
+------------------------------
