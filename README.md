@@ -111,13 +111,6 @@ This project supports ESP32 microcontroller for live image capture:
 
 ---
 
-## 📊 Dataset
-
-Uses medical datasets (e.g.: [Drug Classification Dataset](https://www.kaggle.com/datasets/gauravduttakiit/drug-classification)) with features such as age, sex, blood pressure, cholesterol, etc.  
-**Note:** Adjust your dataset format as needed for your use case.
-
----
-
 ## 💡 Contribution
 
 Contributions are very welcome!  
