@@ -1,3 +1,5 @@
+# app.py - VERSI FINAL DAN KOMPATIBEL (REVISI TOTAL) + Kirim Nilai Terbaik LANGSUNG sebagai Respons POST
+
 from flask import Flask, render_template, request, send_from_directory, jsonify
 import os
 import time
@@ -9,10 +11,11 @@ import json
 import shutil
 import traceback
 
+# --- Konfigurasi ---
 UPLOAD_FOLDER = 'static/images'
 HISTORY_FILE = 'prediction_history.txt'
-MODEL_WEIGHTS_PATH = r'C:\Users\aryag\Documents\GitHub\Check_drug_predic\models\best_vgg16_model (8).h5'
-CLASS_MAPPING_FILE = r'C:\Users\aryag\Documents\GitHub\Check_drug_predic\Class\class_indices_mapping.json'
+MODEL_WEIGHTS_PATH = r'C:\Users\aryag\Documents\GitHub\Check_drug_predic\models\best_vgg16_model.h5' # <<< PASTIKAN NAMA FILE INI BENAR
+CLASS_MAPPING_FILE = r'C:\Users\aryag\Documents\GitHub\Check_drug_predic\Class\class_indices_mapping.json' # <<< PASTIKAN NAMA FILE INI BENAR
 MODEL_INPUT_SIZE = (128, 128)
 
 DENSE_UNITS_1 = 128
@@ -22,23 +25,28 @@ DROPOUT_RATE_2 = 0.3
 regularizer_l2 = None
 USE_BATCH_NORM = False
 
-MAX_HISTORY_ITEMS = 10
+# --- Konfigurasi Baru untuk History ---
+MAX_HISTORY_ITEMS = 10 # Batasi jumlah item history yang disimpan dan ditampilkan
 
+# --- Setup Aplikasi Flask ---
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
+# Pastikan folder upload ada
 if os.path.exists(UPLOAD_FOLDER):
     pass
 else:
     os.makedirs(UPLOAD_FOLDER)
     print(f"Direktori upload dibuat: {UPLOAD_FOLDER}")
 
+# Variabel global
 latest_prediction_html = "Inisialisasi model ML..."
 last_update_time = 0
 last_image_filename = None
 best_prediction_index_for_arduino = -1
 best_prediction_score_for_esp32 = 0.0
 
+# NEW: List untuk menyimpan history data
 prediction_history = []
 
 image_counter = 0
@@ -71,7 +79,9 @@ model = None
 idx_to_class = None
 num_classes = 0
 
+# --- Load Model Arsitektur dan Bobot ML (dilakukan sekali saat server start) ---
 try:
+    # 1. Muat mapping kelas
     if os.path.exists(CLASS_MAPPING_FILE):
         print(f"[INFO] Memuat mapping kelas dari: {CLASS_MAPPING_FILE}")
         with open(CLASS_MAPPING_FILE, 'r') as f:
@@ -82,6 +92,7 @@ try:
         print(f"[INFO] Mapping kelas berhasil dimuat. Jumlah kelas: {num_classes}")
         print(f"[INFO] Urutan Kelas (berdasarkan indeks): {sorted_class_names}")
 
+        # 2. Bangun ulang arsitektur model VGG16
         print("\n[INFO] Membangun ulang arsitektur model VGG16...")
         from tensorflow.keras.applications import VGG16
         from tensorflow.keras.models import Model
@@ -121,6 +132,7 @@ try:
         model = Model(inputs=base_model_vgg16.input, outputs=predictions)
         print("[INFO] Arsitektur model VGG16 berhasil dibangun kembali.")
 
+        # 3. Muat bobot model
         if os.path.exists(MODEL_WEIGHTS_PATH):
             print(f"[INFO] Memuat bobot model dari: {MODEL_WEIGHTS_PATH}")
             model.load_weights(MODEL_WEIGHTS_PATH)
@@ -140,6 +152,8 @@ except Exception as e:
     latest_prediction_html = f"[❌] ERROR saat memuat model: {e}"
     model = None
 
+# --- Fungsi untuk melakukan prediksi ---
+# RETURNS: formatted HTML, raw prediction data (for log), best_index, best_score
 def predict_image(image_path):
     global model, idx_to_class, num_classes
     if model is None or idx_to_class is None or num_classes == 0:
@@ -177,23 +191,24 @@ def predict_image(image_path):
         traceback.print_exc()
         return f"[❌] ERROR saat prediksi: {e}", None, -1, 0.0
 
+# --- Fungsi untuk mencatat prediksi ke file history ---
 def log_prediction_history(filename, prediction_data, best_index=None, best_score=None):
     try:
         timestamp_str = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())
         log_entry = f"[{timestamp_str}] File: {filename}\n"
         if best_index is not None and best_index != -1:
-            log_entry += f"    Best Prediction Index (for Arduino): {best_index}\n"
+            log_entry += f"   Best Prediction Index (for Arduino): {best_index}\n"
         if best_score is not None:
-            log_entry += f"    Best Prediction Score (for ESP32): {best_score:.4f}\n"
+            log_entry += f"   Best Prediction Score (for ESP32): {best_score:.4f}\n"
 
         if prediction_data is None:
-            log_entry += "    Prediksi: Gagal melakukan prediksi atau model tidak tersedia.\n"
+            log_entry += "   Prediksi: Gagal melakukan prediksi atau model tidak tersedia.\n"
         elif isinstance(prediction_data, list) and all(isinstance(item, tuple) for item in prediction_data):
-            log_entry += "    Prediksi:\n"
+            log_entry += "   Prediksi:\n"
             for i, (pred_id, label, score) in enumerate(prediction_data):
-                log_entry += f"      - Top {i+1} (Index {pred_id}): {label} (Skor: {score:.4f})\n"
+                log_entry += f"     - Top {i+1} (Index {pred_id}): {label} (Skor: {score:.4f})\n"
         else:
-            log_entry += f"    Detail/Error: {prediction_data}\n"
+            log_entry += f"   Detail/Error: {prediction_data}\n"
         log_entry += "-"*30 + "\n"
         with open(HISTORY_FILE, 'a', encoding='utf-8') as f:
             f.write(log_entry)
@@ -201,13 +216,15 @@ def log_prediction_history(filename, prediction_data, best_index=None, best_scor
         print(f"[❌] ERROR saat mencatat history: {e}")
         traceback.print_exc()
 
+# --- Route untuk menerima gambar dari ESP32 ---
 @app.route('/upload', methods=['POST'])
 def upload_image():
     global image_counter, latest_prediction_html, last_update_time, last_image_filename, \
-            best_prediction_index_for_arduino, best_prediction_score_for_esp32, prediction_history
+           best_prediction_index_for_arduino, best_prediction_score_for_esp32, prediction_history
 
     if model is None or idx_to_class is None:
         print("[WARNING] Upload ditolak: Model belum siap atau gagal dimuat.")
+        # Mengembalikan JSON untuk ESP32 WROVER
         return jsonify({
             "status": "error",
             "message": "Model not ready for prediction.",
@@ -257,23 +274,24 @@ def upload_image():
             if len(prediction_history) > MAX_HISTORY_ITEMS:
                 prediction_history.pop()
 
+            # Mengembalikan JSON sebagai respons langsung ke ESP32 WROVER
             return jsonify({
                 "status": "success",
                 "message": "Image received and processed.",
                 "index": best_idx,
-                "score": f"{best_scr:.4f}"
+                "score": f"{best_scr:.4f}" # Format score to 4 decimal places
             }), 200
 
         except Exception as e:
             print(f"[❌] ERROR saat menyimpan atau memproses gambar (setelah menerima data): {e}")
             traceback.print_exc()
             log_prediction_history("unknown_filename_error", f"Processing ERROR (after receiving data): {e}")
-            return jsonify({
+            return jsonify({ # Mengembalikan JSON juga untuk error
                 "status": "error",
                 "message": f"Image received, but processing failed: {e}",
                 "index": -1,
                 "score": 0.0
-            }), 500
+            }), 500 # Mengembalikan 500 jika ada error serius setelah menerima data
 
     else:
         print(f"[WARNING] Upload diterima dengan Content-Type salah: {request.headers.get('Content-Type')}")
@@ -284,10 +302,12 @@ def upload_image():
             "score": 0.0
         }), 415
 
+# --- Route utama untuk menampilkan halaman web ---
 @app.route('/')
 def index():
     return render_template('index.html')
 
+# --- Route untuk menyediakan data terbaru (untuk AJAX) ---
 @app.route('/latest_data')
 def get_latest_data():
     global latest_prediction_html, last_update_time, last_image_filename
@@ -302,6 +322,7 @@ def get_latest_data():
         'filename': last_image_filename
     })
 
+# NEW: Route untuk menyediakan data history
 @app.route('/history_data')
 def get_history_data():
     global prediction_history
@@ -322,21 +343,28 @@ def get_history_data():
         })
     return jsonify(formatted_history)
 
+# --- ROUTE UNTUK ARDUINO NANO (MENGAMBIL INDEX TERBAIK) ---
+# Endpoint ini tetap ada jika Anda ingin Arduino Nano tetap polling indeks.
+# Jika hanya ESP32-CAM yang butuh, dan dia sudah dapat respons langsung, ini bisa dihapus.
 @app.route('/arduino_best_prediction')
 def get_arduino_best_prediction():
     global best_prediction_index_for_arduino, last_image_filename, last_update_time
     if last_image_filename is None or best_prediction_index_for_arduino == -1 or model is None:
-        return "-1", 200
+        return "-1", 200 # Indicate no valid data
     return str(best_prediction_index_for_arduino), 200
 
+# Endpoint ini menjadi kurang relevan jika ESP32-CAM mendapat respons langsung dari /upload
+# namun bisa dipertahankan sebagai fallback atau jika ada perangkat lain yang polling score.
 @app.route('/esp32_best_score')
 def get_esp32_best_score():
     global best_prediction_score_for_esp32, last_image_filename, model
 
     if last_image_filename is None or model is None:
-        return "0.0000", 200
+        return "0.0000", 200 # Return 0.0000 if no valid data or model not ready
 
     return f"{best_prediction_score_for_esp32:.4f}", 200
 
+
+# --- Menjalankan Server ---
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
